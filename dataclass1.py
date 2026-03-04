@@ -1,3 +1,6 @@
+#YANGI MASALALAR
+#04.03.2026-YIL
+
 ##1-masala:
 # from dataclasses import dataclass
 #
